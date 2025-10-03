@@ -2,8 +2,8 @@ PLACE YOUR USER IMAGES HERE
 =============================
 
 Instructions:
-1. Place 19 user photos in this folder
-2. Place 1 admin photo in this folder
+1. Place user photos in this folder
+2. Place the admin photo in this folder
 
 Naming Convention:
 - User photos: FirstName-LastName.jpg (e.g., John-Smith.jpg, Sarah-Chen.jpg)
