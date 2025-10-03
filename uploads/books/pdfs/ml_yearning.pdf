@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Machine Learning Yearning</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+        .header { border-bottom: 2px solid #333; padding-bottom: 20px; margin-bottom: 30px; }
+        .chapter { margin-bottom: 30px; }
+        .code { background: #f4f4f4; padding: 10px; border-left: 4px solid #007acc; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <div class='header'>
+        <h1>Machine Learning Yearning</h1>
+        <h2>by Andrew Ng</h2>
+        <p><strong>Sample Chapter - Full Book Available After Purchase</strong></p>
+    </div>
+    
+    <div class='chapter'>
+        <h3>Chapter 1: Introduction</h3>
+        <p>This is a sample chapter from 'Machine Learning Yearning'. The full book contains comprehensive coverage of programming concepts, practical examples, and exercises.</p>
+        
+        <h4>What You'll Learn</h4>
+        <ul>
+            <li>Core programming principles and best practices</li>
+            <li>Real-world examples and case studies</li>
+            <li>Hands-on exercises and projects</li>
+            <li>Industry-standard techniques and patterns</li>
+        </ul>
+        
+        <h4>Sample Code</h4>
+        <div class='code'>
+// This is a sample code snippet
+function example() {
+    console.log('Welcome to Machine Learning Yearning!');
+    return 'Learning programming has never been easier';
+}
+        </div>
+        
+        <p><strong>Purchase the full book to access all chapters, complete code examples, and downloadable resources.</strong></p>
+    </div>
+    
+    <div style='margin-top: 50px; padding: 20px; background: #f0f8ff; border: 1px solid #007acc;'>
+        <h3>Full Book Features:</h3>
+        <ul>
+            <li>✅ Complete content with all chapters</li>
+            <li>✅ Downloadable source code</li>
+            <li>✅ Exercises and solutions</li>
+            <li>✅ Updates and revisions</li>
+            <li>✅ Lifetime access</li>
+        </ul>
+        <p><strong>Get the full version from Bitversity!</strong></p>
+    </div>
+</body>
+</html>

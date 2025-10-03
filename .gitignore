@@ -1,0 +1,72 @@
+# Environment files
+.env
+.env.local
+.env.production
+.env.staging
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+error.log
+access.log
+
+# Temporary files
+tmp/
+temp/
+cache/
+*.tmp
+
+# Vendor directories (if using Composer)
+vendor/
+composer.lock
+
+# Node modules (if using npm/yarn)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Database files
+*.sql.gz
+*.sqlite
+*.db
+
+# Upload directories (be careful with this - you might want to keep some uploads)
+uploads/temp/
+uploads/cache/
+
+# Session files
+sessions/
+
+# Backup files
+backup/
+*.backup
+*_backup.*
+
+# Development and testing
+phpunit.xml
+.phpunit.result.cache
+coverage/
+
+# Build files
+dist/
+build/
+
+# Configuration files with sensitive data
+config/local.php
+config/production.php
