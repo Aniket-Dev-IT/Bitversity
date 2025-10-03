@@ -1,6 +1,0 @@
-# Protect upload directory
-Options -Indexes
-<Files "*.php">
-    Order allow,deny
-    Deny from all
-</Files>
