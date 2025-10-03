@@ -16,4 +16,4 @@ After placing all images, run: php reset_and_seed_users.php
 This will:
 - Delete all existing users and their data
 - Create new accounts based on your images
-- Generate login credentials in new_user_credentials.txt
+- Generate login credentials in new user credentials.txt
